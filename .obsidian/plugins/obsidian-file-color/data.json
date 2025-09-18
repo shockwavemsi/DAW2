@@ -1,0 +1,27 @@
+{
+  "cascadeColors": false,
+  "colorBackground": false,
+  "palette": [
+    {
+      "id": "xP8opnFkR-8N1YVe5kVbE",
+      "name": "Sistemas",
+      "value": "#002aff"
+    },
+    {
+      "id": "4_b8ihcDLjnp92aBbcLSp",
+      "name": "Bases de Datos",
+      "value": "#00ffd5"
+    },
+    {
+      "id": "Z-fa5o6ej8fxcl1zL9R3O",
+      "name": "Entornos de Desarrollo",
+      "value": "#ffa200"
+    },
+    {
+      "id": "8ejoSMxMPh9GllQQYkVhj",
+      "name": "Formacion",
+      "value": "#00fa32"
+    }
+  ],
+  "fileColors": []
+}

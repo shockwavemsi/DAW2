@@ -1,0 +1,14 @@
+{
+  "theme": "obsidian",
+  "cssTheme": "Vanilla AMOLED",
+  "accentColor": "",
+  "enabledCssSnippets": [],
+  "nativeMenus": true,
+  "textFontFamily": "Inter,JetBrains Mono",
+  "showRibbon": false,
+  "showViewHeader": false,
+  "baseFontSizeAction": false,
+  "baseFontSize": 15,
+  "interfaceFontFamily": "",
+  "monospaceFontFamily": "JetBrains Mono"
+}

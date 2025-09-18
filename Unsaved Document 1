@@ -1,0 +1,9 @@
+sudo pacman -Rns brave-bin
+
+rm -rf ~/.config/BraveSoftware
+rm -rf ~/.cache/BraveSoftware
+
+yay -S brave-bin
+
+brave --password-store=basic --disable-extensions --disable-gpu
+

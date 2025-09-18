@@ -1,0 +1,51 @@
+{
+  "callouts": {
+    "custom": [
+      "blank-container",
+      "tabla"
+    ],
+    "settings": {
+      "example": [
+        {
+          "changes": {
+            "color": "168, 130, 255"
+          }
+        }
+      ],
+      "info": [
+        {
+          "changes": {
+            "color": "83, 223, 221"
+          }
+        }
+      ],
+      "blank-container": [
+        {
+          "changes": {
+            "color": "251, 70, 76"
+          }
+        }
+      ],
+      "help": [
+        {
+          "changes": {
+            "color": "68, 207, 110"
+          }
+        }
+      ],
+      "tabla": [
+        {
+          "changes": {
+            "icon": "lucide-app-window",
+            "color": "166, 189, 197"
+          }
+        }
+      ]
+    }
+  },
+  "calloutDetection": {
+    "obsidian": true,
+    "theme": true,
+    "snippet": false
+  }
+}

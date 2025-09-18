@@ -1,0 +1,34 @@
+/* Bloques de código en modo lectura */
+.markdown-preview-view pre code {
+  background-color: #1a1b26;
+  color: #c0caf5;
+  border-radius: 8px;
+  padding: 1em;
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 14px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.3);
+  line-height: 1.5;
+}
+
+/* Código inline en modo lectura */
+.markdown-preview-view code {
+  background-color: #2f3549;
+  color: #7aa2f7;
+  padding: 2px 6px;
+  border-radius: 4px;
+  font-family: 'JetBrains Mono', monospace;
+}
+
+/* Bloques de código en modo edición (Live Preview) */
+.cm-inline-code {
+  background-color: #2f3549;
+  color: #7aa2f7;
+  padding: 2px 6px;
+  border-radius: 4px;
+  font-family: 'JetBrains Mono', monospace;
+}
+
+.cm-formatting-code {
+  color: transparent;
+}
+
