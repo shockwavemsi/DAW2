@@ -1,0 +1,3 @@
+- [ ] DiseñoWeb - Hojas de estilo 1
+- [ ] DespliegeWeb - Tarea 2 - Configuración Apache en docker 
+- [ ] Métodos $_GET y $_POST (Tenemos 4 Ejercicios)
